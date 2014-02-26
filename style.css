@@ -1,0 +1,112 @@
+.css_div {
+font-size: 2em;
+color: red;
+font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.body {
+background-color: #33CCFF;
+margin: -0.001%;
+/*top: 0;
+left: 0;
+right: 0;
+*/
+}
+
+.question {
+color:red;font-family:verdana;font-size:30px;
+}
+
+.border {
+border: solid 3px black;
+border-radius: 5px;
+}
+
+.list {
+font-size: 2em;
+color: red;
+font-family: "Comic Sans MS", cursive, sans-serif;
+border: solid 3px black;
+border-radius: 10px;
+}
+
+.header {
+border: solid 3px black;
+border-radius: 5%;
+background-color: blue;
+text-align: center;
+color: red;
+}
+
+.header a {
+text-decoration: none;
+color: red;
+}
+
+#submit {
+height: 30px;
+width: 60px;
+border: solid 3px green;
+border-radius: 5px;
+background-color: red;
+color: blue;
+}
+
+/*#square1 {
+z-index: 1;
+background-color: green;
+height: 150px;
+width: 150px;
+display: inline-block;
+position: absolute;
+}
+
+#square2 {
+z-index: 2;
+background-color: red;
+height: 150px;
+width: 150px;
+display: inline-block;
+position: relative;
+left: 400px;
+top: 225px;
+}
+
+#square3 {
+position: fixed;
+left: 25%;
+background-color: blue;
+height: 150px;
+width: 150px;
+display: inline-block;
+}*/
+
+.side {
+width: 50%;
+border: solid black 1px;
+height: 92%;
+}
+
+/*#lftside {
+position: absolute;
+background-color: blue;
+float: left;
+width: 50%;
+height: 100%;
+border: solid black 1px;
+}
+*/
+
+#navbar {
+background-color: orange;
+width: 100%;
+}
+
+#navbar li {
+list-style-type: none;
+display: inline;
+}
+
+a:hover {
+color: #00FFFF;
+}
